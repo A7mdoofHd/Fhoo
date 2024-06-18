@@ -1,14 +1,14 @@
 $(`<style>.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3.bord {border-inline: 4px solid #fff !important;}
 
 .nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 {display: inline-block;
-  background-image: url(https://www.raed.net/img?id=847878);
+  background-image: url(https://www.raed.net/img?id=847879);
 
 background-size: 100%; 
 border-radius: 0px 0px 25px 25px;
 box-shadow: 0px 0px 3px 3px #fff;
 }
 
-.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #fff;background-image: url(https://www.raed.net/img?id=847846);}
+.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #fff;background-image: url(https://www.raed.net/img?id=847879);}
 
 
 .nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .fitimg.u-pic.borderg{border-radius: 100px!important;border: 2px solid #000000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
