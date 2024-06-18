@@ -1,7 +1,7 @@
 $(`<style>.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3.bord {border-inline: 4px solid #fff !important;}
 
 .nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 {display: inline-block;
-  background-image: url(https://www.raed.net/img?id=847868);
+  background-image: url(https://www.raed.net/img?id=847878);
 
 background-size: 100%; 
 border-radius: 0px 0px 25px 25px;
@@ -50,11 +50,11 @@ $(`<style>#mic.aym3 .mic {
     }</style>`).insertBefore('body');
 
 
-$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #fff;background-image: linear-gradient(-225deg, #fff 0%, #fff 29%, #fff 67%, #000 100%);
+$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #fff;color: #000;background-image: linear-gradient(-225deg, #fff 0%, #fff 29%, #fff 67%, #000 100%);
 
 background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #fff !important;
 }`);
-$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #fff 0%, #fff 29%, #fff 67%, #000 100%);
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;color: #000;background-image: linear-gradient(-225deg, #fff 0%, #fff 29%, #fff 67%, #000 100%);
 background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #fff !important;
 }`);
 
