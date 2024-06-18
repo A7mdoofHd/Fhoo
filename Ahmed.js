@@ -22,9 +22,9 @@ box-shadow: 0px 0px 0px 0px #fff;
 
 
  
-.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {margin-top: 40px;background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent!important;}
+.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent!important;margin-top: 60px!important;}
 
-.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .u-topic.dots {text-transform: uppercase;background-image: linear-gradient(-225deg, #000 0%, #fff 29%, #fff 67%, #000 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 1s linear infinite;display: inline-block;}
+.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .u-topic.dots {margin-right: 150px; text-transform: uppercase;background-image: linear-gradient(-225deg, #000 0%, #fff 29%, #fff 67%, #000 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 1s linear infinite;display: inline-block;}
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 var rid='1902655242cx52e526e1x58c9p3';
 
