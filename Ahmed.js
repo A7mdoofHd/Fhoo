@@ -1,17 +1,17 @@
 $(`<style>.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3.bord {border-inline: 4px solid #fff !important;}
 
 .nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 {display: inline-block;
-  background-image: url(https://e.top4top.io/p_2508u7rjx0.gif);
+  background-image: url(https://www.raed.net/img?id=847846);
 
 background-size: 100%; 
 border-radius: 0px 0px 25px 25px;
 box-shadow: 0px 0px 3px 3px #fff;
 }
 
-.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #fff;background-image: url(https://j.top4top.io/p_2508ne23l0.gif);}
+.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #fff;background-image: url(https://www.raed.net/img?id=847846);}
 
 
-.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .fitimg.u-pic.borderg{border-radius: 100px!important;border: 2px solid #1D7823;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
+.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .fitimg.u-pic.borderg{border-radius: 100px!important;border: 2px solid #000000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
 
 
 
@@ -113,7 +113,7 @@ background-color: #2C692C;}
     #users.aym1 .uzr {
         background-color: #fff !important;}
       #users.aym1 {
-        background-image: url("https://www.babup.com/do.php?img=78586");
+        background-image: url("https://www.raed.net/img?id=847846");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
@@ -123,12 +123,12 @@ background-color: #2C692C;}
     #users.aym1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
     #d2.aym2 {
         background-color: #f5f5f5 !important;
-        background-image: url("https://www.babup.com/do.php?img=78586");
+        background-image: url("https://www.raed.net/img?id=847846");
         background-size: cover;
     }
     #chats.aym5 {
       background-color: #f5f5f5 !important;
-      background-image: url("https://www.babup.com/do.php?img=78586");
+      background-image: url("https://www.raed.net/img?id=847846");
       background-size: cover;
   }
 
@@ -143,7 +143,7 @@ background-color: #2C692C;}
 	#rooms.aym4 .d-flex.room.r1902655242cx52e526e1x58c9p3 .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
 
     #rooms.aym4 {
-        background-image: url("https://www.babup.com/do.php?img=78586");
+        background-image: url("https://www.raed.net/img?id=847846");
         background-size: cover;
         background-color: #f5f5f5 !important;} 
 
@@ -152,7 +152,7 @@ background-color: #2C692C;}
 }
 
 #d2bc.aym6.d2.light.d2bc.flex-grow-1.break {
-  background-image: url("الخلفيه");
+  background-image: url("https://www.raed.net/img?id=847846");
   background-size: cover;
   background-color: #f5f5f5 !important;} 
 
@@ -161,7 +161,7 @@ background-color:#fff;
 text-color:#fff;}
 
 d2.aym2.flex-grow-1.break.light{
-  background-image: url("الخلفيه");
+  background-image: url("https://www.raed.net/img?id=847846");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
