@@ -4,7 +4,7 @@ $(`<style>.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3.bord {border-inline: 4
   background-image: url(https://www.raed.net/img?id=847879);
 
 background-size: 100%; 
-height: 37%;
+height: 33%;
 border-radius: 5px 5px 5px 5px;
 box-shadow: 0px 0px 0px 0px #fff;
 }
