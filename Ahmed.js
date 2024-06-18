@@ -23,7 +23,7 @@ box-shadow: 0px 0px 3px 3px #fff;
  
 .nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent!important;}
 
-.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .u-topic.dots {text-transform: uppercase;background-image: linear-gradient(-225deg, #fff 0%, #2F7838 29%, #2F7838 67%, #fff 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;}
+.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .u-topic.dots {text-transform: uppercase;background-image: linear-gradient(-225deg, #fff 0%, #000000 29%, #000000 67%, #fff 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;}
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 var rid='1902655242cx52e526e1x58c9p3';
 
@@ -113,7 +113,7 @@ background-color: #2C692C;}
     #users.aym1 .uzr {
         background-color: #fff !important;}
       #users.aym1 {
-        background-image: url("https://k.top4top.io/p_250820wm50.jpg");
+        background-image: url("https://www.babup.com/do.php?img=78586");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
@@ -123,12 +123,12 @@ background-color: #2C692C;}
     #users.aym1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
     #d2.aym2 {
         background-color: #f5f5f5 !important;
-        background-image: url("https://k.top4top.io/p_250820wm50.jpg");
+        background-image: url("https://www.babup.com/do.php?img=78586");
         background-size: cover;
     }
     #chats.aym5 {
       background-color: #f5f5f5 !important;
-      background-image: url("https://k.top4top.io/p_250820wm50.jpg");
+      background-image: url("https://www.babup.com/do.php?img=78586");
       background-size: cover;
   }
 
@@ -143,7 +143,7 @@ background-color: #2C692C;}
 	#rooms.aym4 .d-flex.room.r1902655242cx52e526e1x58c9p3 .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
 
     #rooms.aym4 {
-        background-image: url("https://k.top4top.io/p_250820wm50.jpg");
+        background-image: url("https://www.babup.com/do.php?img=78586");
         background-size: cover;
         background-color: #f5f5f5 !important;} 
 
@@ -152,7 +152,7 @@ background-color: #2C692C;}
 }
 
 #d2bc.aym6.d2.light.d2bc.flex-grow-1.break {
-  background-image: url("https://k.top4top.io/p_250820wm50.jpg");
+  background-image: url("الخلفيه");
   background-size: cover;
   background-color: #f5f5f5 !important;} 
 
@@ -161,7 +161,7 @@ background-color:#fff;
 text-color:#fff;}
 
 d2.aym2.flex-grow-1.break.light{
-  background-image: url("https://k.top4top.io/p_250820wm50.jpg");
+  background-image: url("الخلفيه");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
