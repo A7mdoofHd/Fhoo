@@ -12,7 +12,7 @@ box-shadow: 0px 0px 0px 0px #fff;
 .nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .dots.mini.u-msg {margin-top: 15px;background-size: 100% auto; -webkit-background-clip: text;-webkit-text-fill-color: #fff;background-image: url();}
 
 
-.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .fitimg.u-pic.borderg{border-radius: 100px!important;border: 2px solid #000000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
+.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .fitimg.u-pic.borderg{border-radius: 100px!important;border: 0px solid #000000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
 
 
 
@@ -22,7 +22,7 @@ box-shadow: 0px 0px 0px 0px #fff;
 
 
  
-.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent!important;}
+.nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {margin-top: 40px;background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent!important;}
 
 .nosel.d-flex.room.r1902655242cx52e526e1x58c9p3 .u-topic.dots {text-transform: uppercase;background-image: linear-gradient(-225deg, #000 0%, #fff 29%, #fff 67%, #000 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 1s linear infinite;display: inline-block;}
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
